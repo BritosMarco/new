@@ -1,0 +1,10 @@
+Regex aceita variavel ou objeto para enviar para o find
+options "i" substitui o lowercase nao diferencia maiuscula e minuscula
+Filter pesquisar com parametros ?nome=nome&identidade=identidade
+
+TDD - Metodologia de testes de software.
+Constroi o teste primeiro e depois constroi o código
+Precisa ter uma arquitetura de software, desenhar o soft antes de começar o código
+testar edpoints IF.
+endpoint e rota são a mesma coisa.
+Pesquisar TDD
